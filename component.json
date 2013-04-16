@@ -1,0 +1,13 @@
+{
+  "name": "cordova-wrapper",
+  "repo": "trevorgerhardt/cordova-wrapper",
+  "description": "Wrapper for Cordova",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
